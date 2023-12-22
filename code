@@ -1,0 +1,5 @@
+#There is another Python file named "my_module.py", where a variable pi = 3.1416
+#We can import that file and use the module in this code by following-
+
+import my_module
+print(my_module.pi)
